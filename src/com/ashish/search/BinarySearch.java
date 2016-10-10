@@ -12,7 +12,7 @@ public class BinarySearch {
         //int[] arr = {2, 4, 6, 8, 10, 12, 14, 16};
         //logger.info("Key 10's position: " + bs.binarySearch(arr, 10));
         int[] arr1 = {6, 34, 78, 123, 200, 323, 402, 432, 900};
-        int key = 402;
+        int key = 900;
         int result = bs.binarySearch(arr1, key);
         if(result != (-1)){
         	logger.info("Key: " + key + " found @ position: " + result);

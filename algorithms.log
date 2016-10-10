@@ -32,3 +32,13 @@
 2016-05-16 18:58:34 INFO  MyRecursiveBinarySearch:12 - Found 45 at 1 index
 2016-05-16 18:58:34 INFO  MyRecursiveBinarySearch:14 - Found 999 at 7 index
 2016-05-16 18:58:34 INFO  MyRecursiveBinarySearch:16 - Found 876 at 4 index
+2016-10-06 14:27:47 INFO  LinearSearch:24 - Key 90 found at index: 7
+2016-10-06 14:27:47 INFO  LinearSearch:24 - Key 421 found at index: 2
+2016-10-06 14:35:22 INFO  BinarySearch:18 - Key: 900 found @ position: 8
+2016-10-06 14:37:27 INFO  BinarySearch:18 - Key: 900 found @ position: 8
+2016-10-06 14:41:48 INFO  MyRecursiveBinarySearch:12 - Found 45 at 1 index
+2016-10-06 14:43:30 INFO  MyRecursiveBinarySearch:14 - Found 999 at 7 index
+2016-10-06 14:43:54 INFO  MyRecursiveBinarySearch:16 - Found 876 at 4 index
+2016-10-06 14:44:06 INFO  MyRecursiveBinarySearch:12 - Found 45 at 1 index
+2016-10-06 14:44:06 INFO  MyRecursiveBinarySearch:14 - Found 999 at 7 index
+2016-10-06 14:44:06 INFO  MyRecursiveBinarySearch:16 - Found 876 at -6 index
